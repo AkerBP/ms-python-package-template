@@ -1,0 +1,1 @@
+{"config":{"indexing":"full","lang":["en"],"min_search_length":3,"prebuild_index":false,"separator":"[\\s\\-]+"},"docs":[{"location":"","text":"","title":"Home"},{"location":"docfile1/","text":"This is a sample docfile. Here is reference to .","title":"Docfile1"}]}
